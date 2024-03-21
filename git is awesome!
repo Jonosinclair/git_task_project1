@@ -1,0 +1,15 @@
+print("helloworld!")
+git status
+git status
+git add helloworld.py
+git status
+git status
+# helloworld.py
+print("git is awesome!")
+git status
+git add helloworld.py
+git status
+git commit -m "Changed message to 'git is awesome!'"
+git status
+git log
+
