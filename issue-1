@@ -1,0 +1,8 @@
+git branch issue-1
+git checkout issue-1
+user_input = input("Enter something: ")
+print("You entered:", user_input)
+git add helloworld.py
+git commit -m "Modified program to accept user input"
+git checkout master
+git merge issue-1
