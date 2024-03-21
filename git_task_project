@@ -1,1 +1,4 @@
+cd your_new_folder
+git init
+git status
 
